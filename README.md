@@ -1,2 +1,3 @@
 # pc2bench_public
-benchmarks from Paderborn Center for Parallel Computing
+
+Please send a request for access to the preliminary version of hte benchmarks by mail to pc2-support@uni-paderborn.de. You need a Github account and you must send your github accountname with the request.
