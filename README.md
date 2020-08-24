@@ -10,3 +10,4 @@ The benchmark suite covers the programs:
 * MaxwellsCPU3d [https://en.ei.uni-paderborn.de/tet/](https://en.ei.uni-paderborn.de/tet/)
 
 It contains scripts for buildung, submitting and analysing the benchmarks as well as reference results from the Noctua system.
+After your request has been granted, you can find the benchmarks at https://github.com/pc2/pc2bench.
